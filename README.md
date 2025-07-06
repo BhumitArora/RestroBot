@@ -1,4 +1,4 @@
-# Zomato-Gen-AI
+# RestroBot
 
 A powerful, AI-driven assistant specialized in restaurant information and menu queries. Leveraging advanced natural language processing capabilities, it provides users with accurate and concise responses about various restaurants, their menus, pricing, and locations.
 
